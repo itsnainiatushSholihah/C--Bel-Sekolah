@@ -1,0 +1,30 @@
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\aplikasi bel sekolah.exe.config
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\aplikasi bel sekolah.exe
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\aplikasi bel sekolah.pdb
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\obj\Debug\aplikasi bel sekolah.csprojAssemblyReference.cache
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\obj\Debug\aplikasi bel sekolah.csproj.CoreCompileInputs.cache
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\obj\Debug\aplikasi bel sekolah.exe
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\obj\Debug\aplikasi bel sekolah.pdb
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\bel_sekolah.accdb
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\awal jam ke 1.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Istirahat I.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Istirahat II.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\ik2 itsna\latihan 1\aplikasi bel sekolah\aplikasi bel sekolah\aplikasi bel sekolah\bin\Debug\Suara\pembuka.wav
